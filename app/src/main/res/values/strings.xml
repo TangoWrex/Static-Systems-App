@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">wardragon-app</string>
+
+    <!-- New string resource for icon description -->
+    <string name="icon_description">Icon description text</string>
+    <string name="response_placeholder">Response will be shown here</string>
+</resources>
