@@ -3,10 +3,10 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
         android:id="@+id/action_check_drone_ids"
-        android:title="Check Drone IDs"
+        android:title="@string/check_drone_ids"
         app:showAsAction="never" />
     <item
         android:id="@+id/action_generate_test_ids"
-        android:title="Generate Test Drones"
+        android:title="@string/generate_test_drones"
         app:showAsAction="never" />
 </menu>

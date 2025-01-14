@@ -1,7 +1,18 @@
 <resources>
-    <string name="app_name">wardragon-app</string>
+    <string name="app_name">Static Security Systems</string>
 
     <!-- New string resource for icon description -->
     <string name="icon_description">Icon description text</string>
     <string name="response_placeholder">Response will be shown here</string>
+    <string name="save_drone">Save Drone</string>
+    <string name="update_drones">Update Drones</string>
+    <string name="delete_drone">Delete Drone</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="messaging">Messaging</string>
+    <string name="view_messages">View Message\n</string>
+    <string name="new_message">New Message</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="check_drone_ids">Check Drone IDs</string>
+    <string name="generate_test_drones">Generate Test Drones</string>
 </resources>
